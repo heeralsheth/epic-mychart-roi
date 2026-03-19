@@ -1,0 +1,16 @@
+# Ignore CSV files
+*.csv
+
+# Ignore PNG visualizations
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
